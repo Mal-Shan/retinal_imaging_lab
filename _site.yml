@@ -7,9 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Lab Members"
+      href: lab_members.html
 output:
   html_document:
     theme: 
       cosmo
         
-  

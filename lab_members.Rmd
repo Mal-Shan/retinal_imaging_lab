@@ -1,0 +1,154 @@
+---
+title: "Harvard Retinal Imaging Lab Members"
+description: "We are a group of clinicians and statisticians interested in leveraging data science to treat eye diseases."
+editor_options: 
+  chunk_output_type: console
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+<script src="js/for_toc.js"></script>
+
+## PRINCIPAL INVESTIGATOR 
+
+### [John B. Miller](https://eye.hms.harvard.edu/johnmiller)
+
+:::float-left-gang
+<img src="images/portrait_john_miller.png"> 
+
+:::
+
+## RESEARCH FELLOWS
+
+Can include brief description here about their role in the lab
+
+### [Filippos Vingopoulos, MD](https://scholar.google.com/citations?user=Hvk6GyUAAAAJ&hl=en)
+
+:::float-left-gang
+<img src="images/portrait_filippos_vingopoulos.png">
+Brief Bio can go here
+:::
+
+### [Francesco Romano, MD FEBO](https://www.researchgate.net/profile/Francesco-Romano-2)
+
+:::float-left-gang
+<img src="images/portrait_francesco_romano.png">
+Brief Bio can go here 
+:::
+
+### [Xinyi Ding, MD](https://scholar.google.com/citations?user=oBCg2RsAAAAJ&hl=zh-CN)
+
+:::float-left-gang
+<img src="images/portrait_xinyi_ding.png">
+Brief Bio can go here
+:::
+
+### [Itika Garg, MD](https://scholar.google.com/citations?user=g-kIS8kAAAAJ&hl=en)
+
+:::float-left-gang
+<img src="images/portrait_itika_garg.png">
+Brief Bio can go here
+:::
+
+## MEDICAL TRAINEES, RETINA DEPARTMENT
+
+Can include brief description here about their role in the lab
+
+### [Ines Lains, MD](https://scholar.google.com/citations?user=KmbKao8AAAAJ&hl=pt-PT)
+
+:::float-left-gang
+<img src="images/portrait_ines_lains.png">
+Brief Bio can go here 
+:::
+
+### [Neal Patel, MD](https://eye.hms.harvard.edu/people/neal-patel-md)
+
+:::float-left-gang
+<img src="images/portrait_neal_patel.png">
+Brief Bio can go here
+:::
+
+### [Edward (Ned) Lu, MD](https://eye.hms.harvard.edu/people/edward-ned-lu-md)
+
+:::float-left-gang
+<img src="images/portrait_ned_lu.png">
+Brief Bio can go here
+:::
+
+## MEDICAL STUDENT INTERNS
+
+### Rebecca Zeng, BS
+
+:::float-left-gang
+<img src="images/portrait_rebecca_zeng.png">
+MD Candidate, BU School of Medicine
+:::
+
+### Jocelyn Rodriguez, BS 
+
+:::float-left-gang
+<img src="images/portrait_jocelyn_rodriguez.png">
+MD Candidate, Harvard Medical School '24
+:::
+
+### Isabella Stettler, BS 
+
+:::float-left-gang
+<img src="images/portrait_isabella_stettler.png">
+MD Candidate, Tufts University School of Medicine 
+:::
+
+## RESEARCH ASSISTANTS 
+
+### Hannah Wescott, BS 
+
+:::float-left-gang
+<img src="images/portrait_hannah_wescott.png">
+BS 
+:::
+
+### Augustine Bannerman, BA
+
+:::float-left-gang
+<img src="images/portrait_augustine_bannerman.png">
+BA, Harvard College
+:::
+
+### Hannah Choi, BS 
+
+:::float-left-gang
+<img src="images/portrait_hannah_choi.png">
+BS, University of Massachusetts - Amherst 
+:::
+
+### Ioanna Ploumi, BS
+
+:::float-left-gang
+<img src="images/portrait_ioanna_ploumi.png">
+BS Candidate, Northeastern University '23
+:::
+
+### Justin Bai, BS 
+
+:::float-left-gang
+<img src="images/portrait_justin_bai.png">
+BS Candidate, Harvard College '24
+:::
+
+### Katherine Overbey, BS
+
+:::float-left-gang
+<img src="images/portrait_katherine_overbey.png">
+BS Candidate, Johns Hopkins University '23
+:::
+
+### Cade Bennett, BS 
+
+:::float-left-gang
+<img src="images/portrait_cade_bennett.png">
+BS, Vanderbilt University '23
+:::
+
+## Lab Alumni
