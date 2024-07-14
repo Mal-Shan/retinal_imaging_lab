@@ -1,0 +1,15 @@
+name: "lab-website"
+output_dir: "docs"
+navbar:
+  title: "Lab Website Information"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: 
+      cosmo
+        
+  
