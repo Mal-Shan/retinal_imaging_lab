@@ -1,16 +1,21 @@
 name: "lab-website"
 output_dir: "docs"
+theme: css/theme.css
 navbar:
-  title: "Lab Website Information"
-  left:
-    - text: "Home"
-      href: index.html
+  title: "Harvard Retinal Imaging Lab"
+  right:
     - text: "About"
-      href: about.html
-    - text: "Lab Members"
-      href: lab_members.html
+      href: index.html
+    - text: "Team"
+      href: team.html
+    - text: "Publications"
+      href: https://pubmed.ncbi.nlm.nih.gov/collections/63043215/?sort=pubdate
+    - icon: fab fa-instagram
+      href: https://www.instagram.com/harvardretinalimaginglab/?hl=en
 output:
-  html_document:
-    theme: 
-      cosmo
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+    css: [css/fixed_toc.css, css/placement_images.css, css/tippy_modif.css, css/theme.css]
+    self_contained: false
         
