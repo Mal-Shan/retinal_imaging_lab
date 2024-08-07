@@ -5,8 +5,6 @@ site: distill::distill_website
 ---
 <script src="js/for_toc.js"></script>
 
-<img src="images/homepage-lab.png"> 
-
 ## OCT-Angiography
 
 :::float-right-gang
@@ -24,3 +22,5 @@ Early detection is often critical to treatment of diseases. Our current studies 
 ## Artificial Intelligence
 
 Artificial intelligence (AI) is changing healthcare and has many potential applications in the field of retina. With collaborations within the MGB system, our lab aims to investigate the utility of machine learning in the context of retinal imaging research.
+
+<img src="images/homepage-lab.png"> 
